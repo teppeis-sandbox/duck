@@ -11,8 +11,11 @@
       "enabled": false
     }
   ],
+  "npm": {
+    "schedule": "before 5:00am"
+  },
   "lockFileMaintenance": {
-    "automerge": true,
+    "automerge": false,
     "schedule": "at any time"
   },
   "prConcurrentLimit": 0

@@ -10,5 +10,8 @@
       "depTypeList": ["peerDependencies"],
       "enabled": false
     }
-  ]
+  ],
+  "lockFileMaintenance": {
+    "schedule": "at any time"
+  }
 }

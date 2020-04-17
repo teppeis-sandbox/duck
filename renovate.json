@@ -14,5 +14,6 @@
   "lockFileMaintenance": {
     "automerge": true,
     "schedule": "at any time"
-  }
+  },
+  "prConcurrentLimit": 0
 }

@@ -12,7 +12,7 @@
     }
   ],
   "npm": {
-    "schedule": "before 5:00am"
+    "schedule": "on monday"
   },
   "lockFileMaintenance": {
     "automerge": false,

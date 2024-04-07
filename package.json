@@ -45,7 +45,7 @@
     "merge-options": "^2.0.0",
     "p-limit": "^2.3.0",
     "p-settle": "^4.0.1",
-    "pino": "^5.17.0",
+    "pino": "^8.20.0",
     "pino-pretty": "^3.6.1",
     "recursive-readdir": "^2.2.2",
     "rxjs": "^6.5.5",

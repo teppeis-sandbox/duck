@@ -50,17 +50,17 @@ commands:
 jobs:
   node-v10:
     docker:
-      - image: node:10
+      - image: node:23
     steps:
       - test-nodejs
   node-v12:
     docker:
-      - image: node:12
+      - image: node:23
     steps:
       - test-nodejs
   node-v13:
     docker:
-      - image: node:13
+      - image: node:23
     steps:
       - test-nodejs
 
